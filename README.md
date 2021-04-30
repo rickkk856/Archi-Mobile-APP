@@ -3,11 +3,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The training phase used more than 4000 images from the paper ["Architectural Style Classification using Multinomial Latent Logistic Regression"](https://www.kaggle.com/dumitrux/architectural-styles-dataset?select=README.txt) (ECCV2014), made by Zhe Xu. However not all the styles were considered. 
+This mobile app is based on the image recognition task of architectural styles, the training phase used more than 4000 images from the paper ["Architectural Style Classification using Multinomial Latent Logistic Regression"](https://www.kaggle.com/dumitrux/architectural-styles-dataset?select=README.txt) (ECCV2014), made by Zhe Xu. However not all the styles were considered. 
 
 The model was trained on [lobe](https://lobe.ai/) took appoximately 5 hours to train and + 4 hours to optmize model. 
 
-With an 80% train data + 20% test data, we achieved 89% of accuracy optimizing for acc%, and 81% of accuracy setting to train for speed.The Android APP uses tensorflow lite, hence, it's optmized for speed and not work properly as on lobe since images are aren't resized inside the app.
+With 80% of train data + 20% of test data, we achieved 89% of accuracy optimizing for acc%, and 81% of accuracy setting to train for speed.The Android APP uses tensorflow lite, hence, it's optmized for speed and not work properly as on lobe since images are aren't resized inside the app.
 
 Architectural Styles Supported
 1. Art Deco architecture
@@ -29,7 +29,7 @@ Architectural Styles Supported
 
 ## How to Use?
 Download the repository and install `Archi-Mobile-APP.apk` on your phone. You may have to change configuration settings to allow instalation, or try it on a virtual machine.  
-If you want to try the model on other platforms you may use the files on `tflite` folder
+If you want to try the model on other platforms you may use the files on `tflite` folder. _TIP: if you don't like the predictions try rotating the phone and upload the image, since most of the images are +- 16:9 format_
 
 ![Sem nome](https://user-images.githubusercontent.com/62864640/116631319-343c7f80-a92b-11eb-9f41-baa27735d362.png)
 
