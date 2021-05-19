@@ -7,7 +7,7 @@
 
 This mobile app is based on the image recognition task of architectural styles, the training phase used more than 4000 images from the paper ["Architectural Style Classification using Multinomial Latent Logistic Regression"](https://www.kaggle.com/dumitrux/architectural-styles-dataset?select=README.txt) (ECCV2014), made by Zhe Xu. However not all the styles were considered. 
 
-The model was trained on [lobe ai](https://lobe.ai/) and used more than 6 thousan images images, with 80% of train data + 20% of test data, we achieved 98% of accuracy on ResNet-50V2 (optimized for acc%), and 84% of accuracy on MobileNetV2 (optimized for speed). The Android APP uses tensorflow lite, hence, it is recomended to optmize for speed.
+The model was trained on [lobe ai](https://lobe.ai/) and used more than 6 thousand images, with 80% of train data + 20% of test data, we achieved 98% of accuracy on ResNet-50V2 (optimized for acc%), and 84% of accuracy on MobileNetV2 (optimized for speed). The Android APP uses tensorflow lite, hence, it is recomended to optmize for speed.
 
 | Architectural Style | Number of Samples | MobileNetV2 (100%) | MobileNetV2 (20%) | ResNet-50V2(100%) | ResNet-50V2(20%) |
 | --- | --- | --- | --- | --- | --- |
