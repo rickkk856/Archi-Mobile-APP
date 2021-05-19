@@ -1,7 +1,9 @@
 # Archi-Mobile-APP
 
+[Download the .apk here](https://drive.google.com/file/d/1f2yyUsiMGyjA2XdsyaHhP1diAn3c9Omg/view?usp=sharing)
+
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 
 
 This mobile app is based on the image recognition task of architectural styles, the training phase used more than 4000 images from the paper ["Architectural Style Classification using Multinomial Latent Logistic Regression"](https://www.kaggle.com/dumitrux/architectural-styles-dataset?select=README.txt) (ECCV2014), made by Zhe Xu. However not all the styles were considered. 
 
