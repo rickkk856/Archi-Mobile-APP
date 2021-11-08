@@ -27,7 +27,7 @@ The model was trained on [lobe ai](https://lobe.ai/) and used more than 6 thousa
 | Deconstructivism | 418 | 90% | 89% | 99% | 98% |
 | International style | 408 | 46% | 42% | 100% | 96% |
 | Parana's Northern Colonial Architecture | 394 | 97% | 91% | 99% | 96% |
-| **Total Number of Imgs and Medium Acc%** | **6348** | **84%** | **79%** | **98%** | **95%** |
+| **Total Number of Imgs and Average Acc%** | **6348** | **84%** | **79%** | **98%** | **95%** |
 
 
 ## How to Use?
