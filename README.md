@@ -49,13 +49,14 @@ _This app was made on Lobe AI and Android-bootstrap and Android Studio_
 @article{Rodrigues2021,
 abstract = {In the last decades, studies on cultural heritage have been interpreted as a complex and multifaceted phenomenon, in which heritage is no longer understood as just an isolated sector, but as an integral part of the city. In this context, the physical-digital environments of Smart Cities are inserted, which aim to increase this connectivity through data and interfaces, proposing innovative solutions. In this sense, we propose an artifact as an interaction interface between man-machine-medium, which identifies the typical wooden houses of the colonization in the North of Paran{\'{a}}, within a diversity of architectural styles, in order to enhance the user's perception in terms of continuity between the city and heritage. For this, a pilot study was developed in which an Artificial Intelligence model was trained for the recognition of building patterns with computer vision. Finally, the results show that the model obtained an accuracy compatible with those presented in the state of the art, and has the potential to generate user engagement with heritage, technological transfer and future mapping of historic buildings, data that is potentially useful for the delineation of intervention plans at the macro-urban scale.},
 address = {Londrina},
-author = {Rodrigues, Ricardo Cesar and Wedekin, Gabriela Oliveira and Henning, Priscila and Duarte, Rovenir Bertola},
+author = {Rodrigues, Ricardo Cesar; Wedekin, Gabriela Oliveira; Henning, Priscila; Duarte, Rovenir Bertola},
 journal = {VII Simp{\'{o}}sio Brasileiro de Qualidade do Projeto no Ambiente Constru{\'{i}}do},
 keywords = {Computer vision,North of Paran{\'{a}}.,architectural style,artificial intelligence,built heritage},
 pages = {11},
 publisher = {Associa{\c{c}}{\~{a}}o Nacional de Tecnologia do Ambiente Constru{\'{i}}do (ANTAC)},
 title = {{Architectural Style Classification Via Mobile Application and the Wooden Houses in the North of Paran{\'{a}}}},
 year = {2021}
+url = {https://www.researchgate.net/publication/356277224_Classificacao_de_Estilo_Arquitetonico_via_Aplicativo_Mobile_e_as_Casas_de_Madeira_no_Norte_do_Parana}
 }
 ```
 
